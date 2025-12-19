@@ -1,3 +1,3 @@
 this is a tutorial step by step on how to host a SIMPLE messageboard on a raspberry pi (raspberry pi OS LITE)
 first you want to make a directory using "mkdir" name it whatever you want but make sure you know what the directory is for in my case (message4meowers)
-![mkdir that is created](image1/message board)
+![mkdir that is created](1.jpg)
